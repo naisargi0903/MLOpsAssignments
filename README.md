@@ -7,7 +7,7 @@ This repository contains assignments focused on MLOps concepts and tools, includ
 
 ## Directory Overview
 
-### `Kserve/`
+### 🔹`Kserve/`
 
 
 A machine learning model deployed using **KServe** on Kubernetes for predicting crop diseases.
