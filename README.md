@@ -16,7 +16,7 @@ A machine learning model deployed using **KServe** on Kubernetes for predicting 
 
 ---
 
-### 🔹`Kubeflow/`
+### 🔹`Kuberflow/`
 
 
 
