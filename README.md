@@ -1,7 +1,7 @@
 # MLOpsAssignments
-# SEM-6 MLOps Assignment Repository
 
-This repository contains various assignments focused on MLOps concepts and tools, including KServe, Kubeflow, Streamlit, and Observability. Each assignment folder contains source code, deployment files, and scripts tailored to specific use-cases in the MLOps lifecycle.
+
+This repository contains assignments focused on MLOps concepts and tools, including KServe, Kubeflow, Streamlit, and Observability. Each assignment folder contains source code, deployment files, and scripts tailored to specific use-cases in the MLOps lifecycle.
 
 ---
 
