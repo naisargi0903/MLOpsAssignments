@@ -62,11 +62,11 @@ Python script (Assignment3.py) demonstrates data visualization and basic ML tech
 Customer segmentation using Mall Customer dataset (Mall_Customers.csv).
 Python script (Assignment4.py) applies clustering techniques like K-Means.
 
-####• 'Assignment_5/'
+#### • 'Assignment_5/'
 Sales data analysis with supermarket sales dataset (supermarket_sales.csv).
 Python script (Assignment5.py) includes data preprocessing, analysis, and sales visualization (sales_over_time.png).
 
-####• 'Assignment_6/'
+#### • 'Assignment_6/'
 Iris flower classification using the Iris dataset (Iris.csv).
 Python script (Assignment6.py) performs basic machine learning model training and evaluation.
 
