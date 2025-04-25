@@ -5,7 +5,15 @@ This repository contains assignments focused on MLOps concepts and tools, includ
 
 ---
 
-## Directory Overview
+## Directory 
+
+### 🔹'DevOps'
+
+
+AWS, Docker, and Kubernetes form the backbone of modern MLOps workflows by streamlining development, deployment, and scaling of ML models. They enable containerization (via Docker), orchestration (via Kubernetes), and cloud-native automation (via AWS), ensuring reliable and reproducible ML pipelines.
+
+
+---
 
 ### 🔹`Kserve/`
 
