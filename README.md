@@ -43,14 +43,32 @@ Basic observability assignment demonstrating **Elasticsearch + Kibana** setup.
 
 ### 🔹 `Python/`
 
-#### • `Assignment_1/`
+#### • 'Assignment_1/'
 Python script showcasing basic automation or scripting tasks.
-- Useful for learning scripting basics before full ML pipelines.
+Useful for learning scripting basics before full ML pipelines.
 
-#### • `Assignment_2/`
+#### • 'Assignment_2/'
 Flask-based web app featuring:
-- `images/`, `templates/`, `static/` — assets for web frontend
-- Web interface for prediction or visualization (likely related to ML model)
+
+images/, templates/, static/ — assets for the web frontend
+
+Web interface for prediction or visualization (likely related to ML model)
+
+#### • 'Assignment_3/'
+Data analysis on wine quality dataset (winequality-red.csv).
+Python script (Assignment3.py) demonstrates data visualization and basic ML techniques.
+
+#### • 'Assignment_4/'
+Customer segmentation using Mall Customer dataset (Mall_Customers.csv).
+Python script (Assignment4.py) applies clustering techniques like K-Means.
+
+####• 'Assignment_5/'
+Sales data analysis with supermarket sales dataset (supermarket_sales.csv).
+Python script (Assignment5.py) includes data preprocessing, analysis, and sales visualization (sales_over_time.png).
+
+####• 'Assignment_6/'
+Iris flower classification using the Iris dataset (Iris.csv).
+Python script (Assignment6.py) performs basic machine learning model training and evaluation.
 
 ---
 
